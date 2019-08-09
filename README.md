@@ -7,10 +7,10 @@ The proc graphic is borrowed from Shaman's Maelstrom Weapon since I couldn't fin
 
 It only works for level 80, as I didn't bother with finding anything other than max rank spells.
 
-Predatory Swiftness
+### Predatory Swiftness
 
 ![Screenshot](https://i.imgur.com/mXzhpAa.jpg)
 
-Berserk(Cat)
+### Berserk(Cat)
 
 ![Screenshot](https://i.imgur.com/uokiZCP.jpg)
