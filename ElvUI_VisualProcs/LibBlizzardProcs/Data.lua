@@ -89,6 +89,22 @@ LBP_Data.ButtonSpells = {
 		[33987] = 3,
 		[48563] = 3,
 		[48564] = 3,
+		--Berserk (Cat) * Only Max level Spells
+		[48566] = 3,
+		[48574] = 3,
+		[48577] = 3,
+		[52610] = 3,
+		[48575] = 3,
+		[49800] = 3,
+		[62078] = 3,
+		[48572] = 3,
+		[49802] = 3,
+		--Predatory Swiftness
+		[48378] = 4,
+		[50464] = 4,
+		[53308] = 4,
+		[33786] = 4,
+		[48443] = 4,
 	},
 	HUNTER = {
 		-- Improved Steady Shot
@@ -633,6 +649,8 @@ LBP_Data.ButtonProcs = {
 		{48518},
 		-- Berserk
 		{50334},
+		-- Predatory Swiftness
+		{69369},
 	},
 	HUNTER = {
 		-- Improved Steady Shot
@@ -724,6 +742,8 @@ LBP_Data.OverlayProcs = {
 		[33891] = nil,
 		-- Clearcasting
 		[16870] = 3,
+		-- Predatory Swiftness
+		[69369] = 4,
 	},
 	HUNTER = {
 		-- Improved Steady Shot
@@ -814,6 +834,8 @@ LBP_Data.OverlayTextures = {
 		{0, "Eclipse_Moon.blp", "TopLeft", 1, 0.9568, 0.9568, 0.9568},
 		-- Clearcasting
 		{0, "Natures_Grace.blp", "Left + Right (Flipped)", 1, 1, 1, 1},
+		--Predatory Swiftness* (Borrows Texture)
+		{0, "Maelstrom_Weapon.blp", "Top", 1, 1, 1, 1},
 	},
 	HUNTER = {
 		-- Improved Steady Shot
